@@ -1,16 +1,30 @@
 # Tableau-Dashboards  ![icons8-tableau-software-48](https://github.com/swaapnaa/TABLEAU-PROJECTS/assets/149737403/5324eb1a-8bb8-405f-ae23-5988bcfdd675)
 Collection of my Tableau projects and dashboards
 
-# My Tableau Dashboards
+## Overview
 
-Hi! I’m a student learning Tableau, and this repo is where I share the dashboards I create as I practice and improve.
+This repository contains a Tableau dashboard developed to analyze a real-world problem using data visualization techniques. The project focuses on converting raw data into meaningful, interactive insights that support data-driven decision-making.
 
-## Dashboards Included
+## Problem Statement
 
-- **HR Analytics** – Exploring employee data like attrition and demographics  
-- **Sales Superstore** – Analyzing sales and profits from the Superstore dataset  
-- **Customer Churn** – Visualizing customer retention and loss patterns  
-- **Financial Trends** – Checking how financial data changes over time
+Organizations often face challenges in understanding complex datasets and identifying key trends that impact performance. This dashboard addresses that challenge by presenting data in a clear and intuitive visual format.
+
+## Dataset
+
+The analysis is based on a structured dataset containing relevant business metrics. The data has been cleaned and prepared to ensure accuracy and consistency in reporting.
+Dashboard Features
+Interactive visualizations for trend and performance analysis
+Key metrics and KPIs for quick insights
+Filters and drill-down capabilities for deeper exploration
+
+## Tools & Technologies
+
+Tableau
+Microsoft Excel / CSV (data preparation)
+
+## Use Case
+
+The dashboard can be used by stakeholders to monitor performance, identify patterns, and make informed decisions based on visual insights.
 
 ## Files
 
@@ -23,11 +37,3 @@ Hi! I’m a student learning Tableau, and this repo is where I share the dashboa
 1. Download the `.twbx` files to open them in Tableau.  
 2. Use the data files if you want to explore or try building your own dashboards.  
 3. Check out the images folder for previews of the dashboards.
-
-## About Me
-
-I’m learning Tableau to build my data visualization skills. Feedback and suggestions are welcome!
-
----
-
-Thanks for visiting my repo! Feel free to connect with me: [Your GitHub Profile](https://github.com/Shivaniambati006)
